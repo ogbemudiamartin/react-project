@@ -9,6 +9,8 @@ import Location from './components/Location';
 function App() {
   return (
     <div className="App">
+    <h2> My name is Martin am still inexperience in frontend development but I do <br> have the potential
+    to grow and be among the best there is 
     </div>
   );
 }
